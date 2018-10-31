@@ -71,3 +71,4 @@ gem 'bootstrap-sass', '~> 3.3.7'
 gem 'devise', '~> 4.2'
 gem "hirb", "~> 0.7.3"
 gem 'materialize-sass'
+gem 'toastr-rails', '~> 1.0'
