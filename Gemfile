@@ -72,3 +72,7 @@ gem 'devise', '~> 4.2'
 gem "hirb", "~> 0.7.3"
 gem 'materialize-sass'
 gem 'toastr-rails', '~> 1.0'
+
+gem "cloudinary", "~> 1.9"
+
+gem "activestorage-cloudinary-service", "~> 0.2.0"
